@@ -5,7 +5,7 @@ it is all about common Practices used in Machine learning and data science
 > note : these notebooks can be used a self reference 
 ## Content
 
-### [1 Python Programming Summary ](Python-Programming-Summary/)
+### [1 Python Programming Summary ](https://github.com/mahmoudmuawad/Python-Quick-Reference/tree/master/Python%20Programming%20Summary)
 * Basic types 
 * Loops and decicion making
 * Functions and Methods
