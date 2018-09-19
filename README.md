@@ -5,7 +5,7 @@ it is all about common Practices used in Machine learning and data science
 > note : these notebooks can be used a self reference 
 ## Content
 
-### [1 Python Programming Summary ](Python Programming Summary/)
+### [1 Python Programming Summary ](Python-Programming-Summary/)
 * Basic types 
 * Loops and decicion making
 * Functions and Methods
@@ -14,7 +14,7 @@ it is all about common Practices used in Machine learning and data science
 * multiprocessing
 * multithreading
 
-### [2 Data Analysis and Visualization](Data Analysis and Visualization/)
+### [2 Data Analysis and Visualization](Data-Analysis-and-Visualization/)
 * Numpy
 * Pandas
 * Scipy
