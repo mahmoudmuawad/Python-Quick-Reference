@@ -1,7 +1,11 @@
-## Python Quick Reference 
+![python](res/python.png)
+
+# Python Quick Reference 
 it is all about common Practices used in Machine learning and data science 
 > note : these notebooks can be used a self reference 
-### Python Programming Summary : 
+## Content
+
+### [1 Python Programming Summary ](Python Programming Summary/)
 * Basic types 
 * Loops and decicion making
 * Functions and Methods
@@ -10,7 +14,7 @@ it is all about common Practices used in Machine learning and data science
 * multiprocessing
 * multithreading
 
-### Data Analysis and Visualization : 
+### [2 Data Analysis and Visualization](Data Analysis and Visualization/)
 * Numpy
 * Pandas
 * Scipy
