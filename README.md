@@ -14,7 +14,7 @@ it is all about common Practices used in Machine learning and data science
 * multiprocessing
 * multithreading
 
-### [2 Data Analysis and Visualization](Data-Analysis-and-Visualization/)
+### [2 Data Analysis and Visualization](https://github.com/mahmoudmuawad/Python-Quick-Reference/tree/master/Data%20Analysis%20and%20visualization)
 * Numpy
 * Pandas
 * Scipy
