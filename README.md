@@ -1,4 +1,4 @@
-![python](res/python.png)
+![python](python.png)
 
 # Python Quick Reference 
 it is all about common Practices used in Machine learning and data science 
